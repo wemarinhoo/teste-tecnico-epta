@@ -2,7 +2,7 @@ import Image from "next/image";
 import logo from "@/assets/images/logosistemas3-339x96 1.svg";
 import Link from "next/link";
 
-export default function Login() {
+export default function Page() {
   return (
     <div className="bg-white w-screen h-screen flex items-center justify-center">
       <div className="flex">
